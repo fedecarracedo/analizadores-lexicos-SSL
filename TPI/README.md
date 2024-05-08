@@ -4,6 +4,6 @@ Este proyecto fue realizado como parte de la cátedra de Sintaxis y Semántica d
 
 El fin de esta iniciativa fué entender el proceso de compilación de los programas informáticos y comprender como trabajan los Analizadores Léxicos de texto utilizando la herramienta Bison.
 
-<p align="center">
+<p align="center" style="margin-top: 2px;">
   <img src="https://github.com/fedecarracedo/SSL-Federico-Carracedo-2023/assets/125300618/9b696d08-c0b7-4b65-8db4-9b60acbe609b" alt="Sublime's custom image"/>
 </p>
